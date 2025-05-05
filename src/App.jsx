@@ -31,7 +31,7 @@ function App() {
         {/* Imagem Mockup */}
         <img 
           className="mockup"  
-          src="/ebook-capa.png" 
+          src="/ebook-capa-Juliana.png" 
           alt="Capa do eBook Educando para a Inclusão" 
         />
 
